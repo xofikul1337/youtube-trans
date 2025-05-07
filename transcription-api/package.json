@@ -1,0 +1,11 @@
+{
+  "name": "transcription-api",
+  "version": "1.0.0",
+  "main": "api/transcript.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
